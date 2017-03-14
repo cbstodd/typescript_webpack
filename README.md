@@ -32,7 +32,7 @@ Run webpack:
 
     webpack
  
-Starts server in new terminal window:
+Start server in new terminal window:
 
     npm start 
 

@@ -1,0 +1,19 @@
+{
+  "name": "ts_webpack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "build": "node webpack",
+    "start": "lite-server"
+  },
+  "author": "Colin Stodd http://www.colinstodd.com",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.1",
+    "webpack": "2.2.1"
+  }
+}

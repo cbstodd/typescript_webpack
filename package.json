@@ -5,7 +5,6 @@
   "main": "app.js",
   "scripts": {
     "test": "test",
-    "build": "node webpack",
     "start": "lite-server"
   },
   "author": "Colin Stodd http://www.colinstodd.com",
